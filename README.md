@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LubomirKonecny.
 - 👀 I’m interested in computers and music.
-- 🌱 I’m currently learning Python, C#, Kotlin.
+- 🌱 I’m currently learning HTML, CSS, JS, Python, C# and Kotlin.
 - 📫 How to reach me Reddit: https://www.reddit.com/user/LubomirKonecny | Gmail: lubomirkonecny261@gmail.com.
 
 <!---
